@@ -1,0 +1,26 @@
+{
+  "name": "autoTouchemulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "father-build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alitajs/autoTouchemulator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alitajs/autoTouchemulator/issues"
+  },
+  "homepage": "https://github.com/alitajs/autoTouchemulator#readme",
+  "dependencies": {
+    "f2-touchemulator": "^0.0.1"
+  },
+  "devDependencies": {
+    "father-build": "^1.19.2"
+  }
+}
